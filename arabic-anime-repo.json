@@ -1,0 +1,77 @@
+{
+  "name": "Arabic Anime Repo",
+  "author": "mr mohmad",
+  "version": 2,
+  "sources": [
+    {
+      "name": "Anime3rb",
+      "lang": "ar",
+      "baseUrl": "https://anime3rb.com/"
+    },
+    {
+      "name": "ArabAnime",
+      "lang": "ar",
+      "baseUrl": "https://www.arabanime.net/"
+    },
+    {
+      "name": "Anime Cloud",
+      "lang": "ar",
+      "baseUrl": "https://animecloud.net/"
+    },
+    {
+      "name": "Anime Slayer",
+      "lang": "ar",
+      "baseUrl": "https://animeslayer.net/"
+    },
+    {
+      "name": "AddAnime",
+      "lang": "ar",
+      "baseUrl": "https://addanime.me/"
+    },
+    {
+      "name": "AnimeLek",
+      "lang": "ar",
+      "baseUrl": "https://animelek.me/"
+    },
+    {
+      "name": "Anime4up",
+      "lang": "ar",
+      "baseUrl": "https://anime4up.net/"
+    },
+    {
+      "name": "Okanime",
+      "lang": "ar",
+      "baseUrl": "https://okanime.com/"
+    },
+    {
+      "name": "Anime4you",
+      "lang": "ar",
+      "baseUrl": "https://anime4y.net/"
+    },
+    {
+      "name": "Witanime",
+      "lang": "ar",
+      "baseUrl": "https://witanime.com/"
+    },
+    {
+      "name": "AnimeBlkom",
+      "lang": "ar",
+      "baseUrl": "https://animeblkom.net/"
+    },
+    {
+      "name": "Animerco",
+      "lang": "ar",
+      "baseUrl": "https://animerco.com/"
+    },
+    {
+      "name": "Animetak",
+      "lang": "ar",
+      "baseUrl": "https://animetak.net/"
+    },
+    {
+      "name": "OkAnime",
+      "lang": "ar",
+      "baseUrl": "https://okanime.net/"
+    }
+  ]
+}
